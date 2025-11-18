@@ -1,7 +1,7 @@
 # Parkinson’s Disease Classification Using Machine Learning
 
 This project uses machine learning models to classify **Parkinson’s disease** based on biomedical voice measurements.  
-It demonstrates my skills in **data preprocessing, model training, evaluation, and working with real-world health datasets** — aligned to my AI & Data Engineering internship goals.
+It demonstrates my skills in **data preprocessing, model training, evaluation, and working with real-world health datasets** 
 
 ---
 
@@ -10,9 +10,9 @@ I built an end-to-end ML workflow to predict whether a person has Parkinson’s 
 The project compares two models:
 
 - **Decision Tree Classifier**
-- **Random Forest Classifier**
+- **Gradient Boosting**
 
-Random Forest achieved the best performance with high accuracy and stable predictions.
+Gradient Boosting achieved the best performance with high accuracy and stable predictions.
 
 ---
 
@@ -62,11 +62,11 @@ Random Forest performed the best.
 | Model | Performance | Notes |
 |-------|-------------|-------|
 | **Decision Tree** | Good | Baseline model |
-| **Random Forest** | **90–94% accuracy** | Best model, stable and reliable |
+| **Gradient Boosting** | **92.1% accuracy** | Best model, stable and reliable |
 
 ---
 
-## 📈 Visualizations Included
+## Visualizations Included
 
 - Heatmap of feature correlation  
 - Decision Tree diagram  
